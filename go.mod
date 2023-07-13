@@ -1,3 +1,3 @@
-module playground
+module A
 
 go 1.20
